@@ -1,0 +1,38 @@
+@import "variables.scss";
+
+@font-face {
+  font-family: "Noto Mono";
+  src: url("../font/NotoMono-hinted/NotoMono-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  background-color: $bcgc;
+  font-family: "Roboto", sans-serif;
+  h1 {
+    color: $primary-color;
+    font-size: 55px;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    z-index: 1;
+  }
+}
+
+header {
+  img {
+    position: absolute;
+    margin-top: 0px;
+  }
+
+  .GGranier {
+    height: 100px;
+    width: 500px;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    background-color: $primary-color;
+  }
+}
+
+/*------------------------------------*/

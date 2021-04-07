@@ -1,0 +1,23 @@
+{
+  "name": "projetperso",
+  "version": "1.0.0",
+  "description": "Portfolio perso. Des projets des test, une aventure... :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w sass/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graniergerald/graniergerald.git"
+  },
+  "author": "Granier Gérald granier.gerald01@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graniergerald/graniergerald/issues"
+  },
+  "homepage": "https://github.com/graniergerald/graniergerald#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

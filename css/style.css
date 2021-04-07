@@ -1,26 +1,22 @@
 @font-face {
   font-family: "Noto Mono";
-  src: url("../font/NotoMono-hinted/NotoMono-Regular.ttf");
-}
+  src: url("../font/NotoMono-hinted/NotoMono-Regular.ttf"); }
 
 body {
   margin: 0;
   background-color: #14100b;
-  font-family: "Roboto", sans-serif;
-}
-body h1 {
-  color: #e4e6e1;
-  font-size: 55px;
-  position: absolute;
-  top: 30%;
-  left: 15%;
-  z-index: 1;
-}
+  font-family: "Roboto", sans-serif; }
+  body h1 {
+    color: #e4e6e1;
+    font-size: 55px;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    z-index: 1; }
 
 header img {
   position: absolute;
-  margin-top: 0px;
-}
+  margin-top: 0px; }
 
 header .GGranier {
   height: 100px;
@@ -28,7 +24,6 @@ header .GGranier {
   position: absolute;
   top: 25%;
   left: 15%;
-  background-color: #e4e6e1;
-}
+  background-color: #e4e6e1; }
 
 /*------------------------------------*/
